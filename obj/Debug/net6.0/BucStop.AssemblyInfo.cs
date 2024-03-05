@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BucStop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7deedc37fde72116d49a036f6df6d157db3aae6")]
 [assembly: System.Reflection.AssemblyProductAttribute("BucStop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BucStop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

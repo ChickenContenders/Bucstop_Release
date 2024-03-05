@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\GitHub\\CSCI-4350-Project\\BucStop\\BucStop.csproj": {}
+    "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\BucStop.csproj": {}
   },
   "projects": {
-    "F:\\GitHub\\CSCI-4350-Project\\BucStop\\BucStop.csproj": {
+    "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\BucStop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\BucStop.csproj",
+        "projectUniqueName": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\BucStop.csproj",
         "projectName": "BucStop",
-        "projectPath": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\BucStop.csproj",
-        "packagesPath": "C:\\Users\\Tyler\\.nuget\\packages\\",
-        "outputPath": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\obj\\",
+        "projectPath": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\BucStop.csproj",
+        "packagesPath": "C:\\Users\\saint\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Tyler\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\saint\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -9,73 +9,79 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BucStop
 build_property.RootNamespace = BucStop
-build_property.ProjectDir = F:\GitHub\CSCI-4350-Project\BucStop\
+build_property.ProjectDir = C:\Users\saint\Documents\GitHub\CSCI-4350-Project\CSCI-4350-Project\BucStop\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\GitHub\CSCI-4350-Project\BucStop
+build_property.MSBuildProjectDirectory = C:\Users\saint\Documents\GitHub\CSCI-4350-Project\CSCI-4350-Project\BucStop
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/GitHub/CSCI-4350-Project/BucStop/Views/Account/Login.cshtml]
+[C:/Users/saint/Documents/GitHub/CSCI-4350-Project/CSCI-4350-Project/BucStop/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/GitHub/CSCI-4350-Project/BucStop/Views/Games/Index.cshtml]
+[C:/Users/saint/Documents/GitHub/CSCI-4350-Project/CSCI-4350-Project/BucStop/Views/Games/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/GitHub/CSCI-4350-Project/BucStop/Views/Games/Play.cshtml]
+[C:/Users/saint/Documents/GitHub/CSCI-4350-Project/CSCI-4350-Project/BucStop/Views/Games/Play.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcUGxheS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/GitHub/CSCI-4350-Project/BucStop/Views/Games/Snake.cshtml]
+[C:/Users/saint/Documents/GitHub/CSCI-4350-Project/CSCI-4350-Project/BucStop/Views/Games/Snake.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcU25ha2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/GitHub/CSCI-4350-Project/BucStop/Views/Games/Tetris.cshtml]
+[C:/Users/saint/Documents/GitHub/CSCI-4350-Project/CSCI-4350-Project/BucStop/Views/Games/Tetris.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcVGV0cmlzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/GitHub/CSCI-4350-Project/BucStop/Views/Home/Admin.cshtml]
+[C:/Users/saint/Documents/GitHub/CSCI-4350-Project/CSCI-4350-Project/BucStop/Views/Home/Admin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/GitHub/CSCI-4350-Project/BucStop/Views/Home/GameCriteria.cshtml]
+[C:/Users/saint/Documents/GitHub/CSCI-4350-Project/CSCI-4350-Project/BucStop/Views/Home/FAQ.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGQVEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saint/Documents/GitHub/CSCI-4350-Project/CSCI-4350-Project/BucStop/Views/Home/GameCriteria.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHYW1lQ3JpdGVyaWEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/GitHub/CSCI-4350-Project/BucStop/Views/Home/Games.cshtml]
+[C:/Users/saint/Documents/GitHub/CSCI-4350-Project/CSCI-4350-Project/BucStop/Views/Home/Games.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHYW1lcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/GitHub/CSCI-4350-Project/BucStop/Views/Home/Index.cshtml]
+[C:/Users/saint/Documents/GitHub/CSCI-4350-Project/CSCI-4350-Project/BucStop/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/GitHub/CSCI-4350-Project/BucStop/Views/Home/Privacy.cshtml]
+[C:/Users/saint/Documents/GitHub/CSCI-4350-Project/CSCI-4350-Project/BucStop/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/GitHub/CSCI-4350-Project/BucStop/Views/Shared/Error.cshtml]
+[C:/Users/saint/Documents/GitHub/CSCI-4350-Project/CSCI-4350-Project/BucStop/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/GitHub/CSCI-4350-Project/BucStop/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/saint/Documents/GitHub/CSCI-4350-Project/CSCI-4350-Project/BucStop/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/GitHub/CSCI-4350-Project/BucStop/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/saint/Documents/GitHub/CSCI-4350-Project/CSCI-4350-Project/BucStop/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/GitHub/CSCI-4350-Project/BucStop/Views/_ViewImports.cshtml]
+[C:/Users/saint/Documents/GitHub/CSCI-4350-Project/CSCI-4350-Project/BucStop/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/GitHub/CSCI-4350-Project/BucStop/Views/_ViewStart.cshtml]
+[C:/Users/saint/Documents/GitHub/CSCI-4350-Project/CSCI-4350-Project/BucStop/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/GitHub/CSCI-4350-Project/BucStop/Views/Shared/_Layout.cshtml]
+[C:/Users/saint/Documents/GitHub/CSCI-4350-Project/CSCI-4350-Project/BucStop/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-juwkzuqai1

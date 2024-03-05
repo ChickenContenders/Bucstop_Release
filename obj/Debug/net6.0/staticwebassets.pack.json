@@ -1,295 +1,295 @@
 {
   "Files": [
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BucStop.bundle.scp.css",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BucStop.bundle.scp.css",
       "PackagePath": "staticwebassets\\BucStop.bundle.scp.css"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\Logo.png",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\Logo.png",
       "PackagePath": "staticwebassets\\Logo.png"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\fonts\\BebasNeue-Regular.ttf",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\fonts\\BebasNeue-Regular.ttf",
       "PackagePath": "staticwebassets\\fonts\\BebasNeue-Regular.ttf"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\fonts\\GreatVibes-Regular.ttf",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\fonts\\GreatVibes-Regular.ttf",
       "PackagePath": "staticwebassets\\fonts\\GreatVibes-Regular.ttf"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\images\\background.png",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\images\\background.png",
       "PackagePath": "staticwebassets\\images\\background.png"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\images\\pong.jpg",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\images\\pong.jpg",
       "PackagePath": "staticwebassets\\images\\pong.jpg"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\images\\snake.jpg",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\images\\snake.jpg",
       "PackagePath": "staticwebassets\\images\\snake.jpg"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\images\\tetris.jpg",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\images\\tetris.jpg",
       "PackagePath": "staticwebassets\\images\\tetris.jpg"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\js\\hammer.min.js",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\js\\hammer.min.js",
       "PackagePath": "staticwebassets\\js\\hammer.min.js"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\js\\pong.js",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\js\\pong.js",
       "PackagePath": "staticwebassets\\js\\pong.js"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\js\\snake.js",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\js\\snake.js",
       "PackagePath": "staticwebassets\\js\\snake.js"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\js\\tetris.js",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\js\\tetris.js",
       "PackagePath": "staticwebassets\\js\\tetris.js"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "F:\\GitHub\\CSCI-4350-Project\\BucStop\\wwwroot\\playcount.json",
+      "Id": "C:\\Users\\saint\\Documents\\GitHub\\CSCI-4350-Project\\CSCI-4350-Project\\BucStop\\wwwroot\\playcount.json",
       "PackagePath": "staticwebassets\\playcount.json"
     },
     {
